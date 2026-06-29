@@ -1,6 +1,18 @@
+<div align="center">
+
 # Sounder Studio
 
 **Advanced Image-Based Audio Editor & Synthesizer**
+
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](#requirements)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows%20·%20Linux%20·%20macOS-lightgrey)](#requirements)
+
+</div>
+
+<img src="UI.png" width="750">
+<br>
+<img src="Spectro.png" width="750">
 
 *Created by Joel Lagace*
 
